@@ -5,9 +5,10 @@
       alt="Twitter"
     />
   </a>
-
-  <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" align: right; alt="Chris Evans's Dev Card"/></a>
 </div>
+<div align="right">
+  <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
+  </div>
 
 <br />
 
