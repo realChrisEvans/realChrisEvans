@@ -1,13 +1,4 @@
 <div align="left">
-  <a href="https://twitter.com/JsEvans">
-    <img
-      src="https://img.shields.io/twitter/follow/JsEvans?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-</div>
-<br>
-<div align="left">
   <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
   </div>
 
