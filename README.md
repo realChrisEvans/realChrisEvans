@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="left">
+  <a href="https://twitter.com/JsEvans">
+    <img
+      src="https://img.shields.io/twitter/follow/JsEvans?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
 
-<!--
-**realChrisEvans/realChrisEvans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" align: right; alt="Chris Evans's Dev Card"/></a>
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋, my name is Chris
+#### I am a Junior Web Developer from Boston MA
+I work mostly on frontend applications such as websites. I have a strong love for reading, learning,and gaming.
+
+Skills: HTML / CSS / REACT / EXPRESS / NODE / MONGO
+
+- 🔭 I’m currently working on my own start-up. 
+- 🌱 I’m currently learning how to build a start-up. 
+- 📫 How to reach me: DM me on Twitter or send me an Email. 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realChrisEvans&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/realChrisEvans) 
