@@ -10,8 +10,6 @@
   <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
   </div>
 
-<br />
-
 ### Hi there 👋, my name is Chris
 #### I am a Junior Web Developer from Boston MA
 I work mostly on frontend applications such as websites. I have a strong love for reading, learning,and gaming.
