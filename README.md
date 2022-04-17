@@ -8,7 +8,7 @@ I work mostly on frontend applications such as websites. I have a strong love fo
 
 Skills: HTML / CSS / REACT / VUE / NODE / MONGO / FIGMA 
 
-- 🔭 I’m currently working on my own start-up. 
+- 🔭 I’m currently working on building digital products. 
 - 🌱 I’m currently learning how to build a start-up. 
 - 📫 How to reach me: DM me on Twitter or send me an Email. 
 
