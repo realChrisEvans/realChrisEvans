@@ -6,7 +6,7 @@
 #### I am a Junior Web Developer from Boston MA
 I work mostly on frontend applications such as websites. I have a strong love for reading, learning,and gaming.
 
-Skills: HTML / CSS / REACT / VUE / NODE / MONGO / FIGMA 
+Skills: HTML / CSS / JAVASCRIPT / C# / REACT / NODE / MONGO / FIGMA 
 
 - 🔭 I’m currently working on building digital products. 
 - 🌱 I’m currently learning how to build a start-up. 
