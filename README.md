@@ -15,6 +15,6 @@ Skills: HTML / CSS / JAVASCRIPT / C# / REACT / NODE / MONGO / FIGMA
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realChrisEvans&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-### Support me and check out some of my digital products!
+### Support me if you'd like!
 
 <a href="https://www.buymeacoffee.com/JsEvans" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
