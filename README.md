@@ -1,7 +1,3 @@
-<div align="right">
-  <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
-  </div>
-  
 Hi 👋 My name is Chris Evans
 ============================
 
@@ -18,6 +14,11 @@ Web Developer and UI/UX Designer
 src="https://img.shields.io/twitter/follow/JsEvans?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/realChrisEvans" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/realChrisEvans?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+<div align="right">
+  <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
+  </div>
+  
 ### Skills
 
 <p align="left">
