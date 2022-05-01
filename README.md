@@ -49,7 +49,7 @@ src="https://img.shields.io/github/followers/realChrisEvans?logo=github&style=fo
 
 <a href="https://github.com/realChrisEvans" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realChrisEvans&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div align="center">
+<div align="left">
   <a href="https://app.daily.dev/realChrisEvans"><img src="https://api.daily.dev/devcards/c663c9b678f54b06a0a66dd3b1cd3218.png?r=376" width="400" alt="Chris Evans's Dev Card"/></a>
   </div>
 
