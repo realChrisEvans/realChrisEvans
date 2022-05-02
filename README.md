@@ -5,7 +5,7 @@ Web Developer and UI/UX Designer
 --------------------------------
 
 * 🌍  I'm based in Boston, MA
-* 🖥️  See my portfolio at [MyPorfolio](http://www.realchrisevans.com)
+* 🖥️  See my portfolio at [My Website](http://www.realchrisevans.com)
 * ✉️  You can contact me at [realchrisevans@outlook.com](mailto:realchrisevans@outlook.com)
 * 🧠  I'm learning Back-End programming.
 * 🤝  I'm open to collaborating on unique and ambitious projects.
