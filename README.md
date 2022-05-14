@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jsevans" target="blank"><img src="https://img.shields.io/twitter/follow/jsevans?logo=twitter&style=for-the-badge" alt="jsevans" /></a> </p>
 
-- 🌱 I’m currently learning **different programming languages.**
+- 🌱 I’m currently learning **how to build a start-up.**
 
 - 👯 I’m looking to collaborate on **ambitious, large-scale projects.**
 
