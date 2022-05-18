@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://realchrisevans.hashnode.dev/](https://realchrisevans.hashnode.dev/)
 
-- 💬 Ask me about **anything.**
-
 - 📫 How to reach me **realchrisevans@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
